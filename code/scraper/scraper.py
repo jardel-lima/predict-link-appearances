@@ -1,6 +1,5 @@
 import sys
 import requests
-import sqlite3
 import csv
 
 from multiprocessing import Process, Pool
