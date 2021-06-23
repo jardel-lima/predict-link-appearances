@@ -67,7 +67,8 @@ Execute the code `/code/scraper/processdata.py` passing as arguments the base in
 
  ## How to Use
 
- This API was build using FastAPI, to run it go to the `/code/api` folder and run `uvicorn main:app --reload`.
+ This API was build using FastAPI, to run it go to the `/code/api` folder and run `uvicorn main:app --reload`. You can use the `/docs` from the API to visualize and test all implemented endpoints.
 
-You can use the `/docs` from the API to visualize and test all implemented endpoints
+ You can also use the Dockerfile to build a image with the Fast API.
 
+ Obs: Copy the used database to `/database` folder and the model to `output/model` folders.
