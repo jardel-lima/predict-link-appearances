@@ -1,3 +1,5 @@
 requests
 pysqlite3
 beautifulsoup4
+scikit-learn
+joblib

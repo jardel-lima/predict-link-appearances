@@ -2,3 +2,4 @@ input/*
 output/*
 
 database/*.db
+code/model/.ipynb*
