@@ -1,5 +1,12 @@
 input/*
 output/*
+database/*
 
-database/*.db
 code/model/.ipynb*
+
+code/api/__py*
+code/api/database
+code/api/model
+
+code/features/__py*
+code/util/__py*
